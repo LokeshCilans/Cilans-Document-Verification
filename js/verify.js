@@ -1,3 +1,4 @@
+const Web3 = require('web3');
 window.CONTRACT = {
   address: '0x8fa74bc3c10A86C15a0406099071F36f4DbF62f3',
   network: 'https://polygon-rpc.com/',
